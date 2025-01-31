@@ -1,0 +1,17 @@
+{
+  "name": "lukedejong/laravel-framework",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Luke de Jong",
+      "email": "ldejong9938@gmail.com"
+    }
+  ],
+  "require": {
+    "illuminate/database": "^11.41"
+  }
+}
